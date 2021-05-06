@@ -1,0 +1,7 @@
+# ignore the data folder
+data/
+
+
+# ignore the caches
+.ipynb_checkpoints/
+__pycache__/
